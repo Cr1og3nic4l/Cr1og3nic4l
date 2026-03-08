@@ -1,16 +1,47 @@
-## Hi there 👋
+# Cr1og3nic4l
 
-<!--
-**Cr1og3nic4l/Cr1og3nic4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on practical security, hardware diagnostics, and embedded systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Focus
+
+- Cybersecurity training
+- Windows privilege escalation
+- Linux enumeration
+- Hardware diagnostics
+- Embedded systems (Raspberry Pi)
+- Board-level electronics repair
+
+---
+
+## Main Portfolio
+
+### Hardware & Embedded Projects
+Hardware repair and embedded systems projects.
+
+https://github.com/Cr1og3nic4l/hardware-repair-and-embedded-projects
+
+### TryHackMe Cybersecurity Training
+My learning progress through TryHackMe labs and practical exercises.
+
+https://github.com/Cr1og3nic4l/tryhackme-progress
+
+---
+
+## Current Training
+
+- TryHackMe Security Analyst Level 1 (SAL1)
+- TryHackMe Pentesting Path (PT1)
+
+Certifications completed:
+
+- Cisco Networking Basics
+- Cisco Introduction to Cybersecurity
+- 3x OSINT certifications
+
+---
+
+## TryHackMe Profile
+
+https://tryhackme.com/p/Cr1og3nic4l
